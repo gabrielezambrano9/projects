@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+Export/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
