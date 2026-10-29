@@ -1,0 +1,16 @@
+tag,algorithm,seed,time_min
+reinforce_nobaseline_seed10,reinforce,10,6.511344635486603
+reinforce_nobaseline_seed20,reinforce,20,7.948253877957662
+reinforce_nobaseline_seed30,reinforce,30,9.772370338439941
+reinforce_nobaseline_seed40,reinforce,40,8.976744123299916
+reinforce_nobaseline_seed50,reinforce,50,7.174912122885386
+reinforce_baseline20_seed10,reinforce,10,9.182282173633576
+reinforce_baseline20_seed20,reinforce,20,8.0421302596728
+reinforce_baseline20_seed30,reinforce,30,9.64821230173111
+reinforce_baseline20_seed40,reinforce,40,10.650323843955993
+reinforce_baseline20_seed50,reinforce,50,9.053767315546672
+actor_critic_seed10,actor_critic,10,42.81478459437688
+actor_critic_seed20,actor_critic,20,30.132587619622548
+actor_critic_seed30,actor_critic,30,34.52269173065822
+actor_critic_seed40,actor_critic,40,34.10689036448797
+actor_critic_seed50,actor_critic,50,31.353116162618
